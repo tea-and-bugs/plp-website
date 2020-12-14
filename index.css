@@ -3,3 +3,8 @@ p {
     font-size: 24;
     font-weight: bold;
 }
+
+#content {
+    background-color: aquamarine;
+    margin: 50%;
+}
