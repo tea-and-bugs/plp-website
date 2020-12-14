@@ -6,5 +6,9 @@ p {
 
 #content {
     background-color: aquamarine;
+    width: 10%;
+    height: 10%;
     margin: 50%;
+    text-align: center;
+    padding: 1%;
 }
