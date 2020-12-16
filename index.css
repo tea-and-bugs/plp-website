@@ -14,3 +14,9 @@ p {
     margin-right: 0;
 
 }
+
+.logo-link {
+    width: 32px;
+    height: 32px;
+    margin: 0.5%;
+}
