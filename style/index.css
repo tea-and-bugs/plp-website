@@ -21,3 +21,14 @@ p {
     margin: 0.5%;
     float: right;
 }
+
+navlink {
+    float: right;
+    font: "Futura" 1em bold;
+}
+
+h1 {
+    font-family: "Futura";
+    font-size: 2em;
+    font-weight: bold;
+}

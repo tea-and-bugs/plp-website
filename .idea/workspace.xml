@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad31dbce-a500-4ab9-8837-3765860840b0" name="Default Changelist" comment="updated server software and reorganized files">
-      <change afterPath="$PROJECT_DIR$/favicon.png" afterDir="false" />
+    <list default="true" id="ad31dbce-a500-4ab9-8837-3765860840b0" name="Default Changelist" comment="Attempted, and failed, to add a favicon.">
+      <change afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site.webmanifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -45,8 +49,8 @@
       <recent name="$PROJECT_DIR$/server" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/style/" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/style/" />
     </key>
   </component>
   <component name="RunManager">
@@ -114,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608260219126</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Attempted, and failed, to add a favicon.">
+      <created>1608303707798</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608303707799</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +145,7 @@
     <MESSAGE value="Started work on web server" />
     <MESSAGE value="Added .gitignore" />
     <MESSAGE value="updated server software and reorganized files" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated server software and reorganized files" />
+    <MESSAGE value="Attempted, and failed, to add a favicon." />
+    <option name="LAST_COMMIT_MESSAGE" value="Attempted, and failed, to add a favicon." />
   </component>
 </project>
