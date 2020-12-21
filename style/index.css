@@ -15,20 +15,51 @@ p {
 
 }
 
+#footer {
+    width: 100vw;
+    height: 25vh;
+    background-color: #555;
+    position: fixed;
+    bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
 .logo-link {
     width: 32px;
     height: 32px;
     margin: 0.5%;
-    float: right;
+}
+
+.site-nav-link-footer {
+    font: 1em "Futura"
 }
 
 navlink {
     float: right;
-    font: "Futura" 1em bold;
+    font-family: "Futura";
+    font-weight: bold;
+    margin: 1em;
 }
 
 h1 {
     font-family: "Futura";
     font-size: 2em;
     font-weight: bold;
+}
+
+a {
+    color: darkgreen;
+}
+
+a:visited {
+    color: seagreen;
+}
+
+a:hover {
+    color: lightseagreen;
+}
+
+a:active {
+    color: mediumseagreen;
 }
