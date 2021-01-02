@@ -5,7 +5,7 @@ p {
 }
 
 #header {
-    background-color: palegreen;
+    background-color: #bbffbb;
     width: 100vw;
     height: 5vh;
     position: fixed;
@@ -31,9 +31,7 @@ p {
 
 .site-nav-link-footer {
     color: whitesmoke;
-    font: 1em Futura;
-    font-weight: bold;
-    margin-left: 1em;
+    font: 1em Futura bold;
     
 }
 
@@ -55,10 +53,10 @@ p {
 #about-heading {
     clear: both;
     position: fixed;
-    background-color: pink;
+    background-color: #88ff88;
     width: 100vw;
     height: 10vh;
-        top: 5vh;
+    top: 5vh;
 
     }
 
@@ -70,9 +68,36 @@ p {
     top: 15vh;
 }
 
+#contact-header {
+    background-color: #88ff88;
+/*    height: 10vh;*/
+    padding: 1em;
+}
+
+#contact-body {
+    background-color: #bbffbb;
+    position: fixed;
+    width: 100vw;
+    height: 95vh;
+    top: 5vh;
+}
+
+#contact-sect-div {
+    font: 1.25em Futura bold;
+    color: #050;
+}
+
+#footer-insite-links {
+/*    Just in case */
+}
+
 h1 {
     font: 3.5em Futura;
     font-weight: bold;
+    text-align: center;
+}
+h2 {
+    font: 2.5em Futura bold;
     text-align: center;
 }
 
@@ -90,4 +115,8 @@ a:hover {
 
 a:active {
     color: mediumseagreen;
+}
+
+a:visited.site-nav-link-footer {
+    color: lightgrey;
 }
