@@ -55,13 +55,8 @@ p {
     position: fixed;
     background-color: #88ff88;
     width: 100vw;
-<<<<<<< HEAD
-    height: 10vh;
-    top: 5vh;
-=======
     height: 10%;
         top: 5%;
->>>>>>> 6406a15fe8a49749aeb1410246c5d21513f427ba
 
     }
 
@@ -69,13 +64,12 @@ p {
     background-color: #bbffbb;
     position: fixed;
     width: 100vw;
-    height: 20vh;
-    top: 20%;
+    height: 20%;
+    top: 15%;
 }
 
 #contact-header {
     background-color: #88ff88;
-/*    height: 10vh;*/
     padding: 1em;
 }
 

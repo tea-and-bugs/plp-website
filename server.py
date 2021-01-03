@@ -6,4 +6,7 @@ handler = http.server.SimpleHTTPRequestHandler
 
 with socketserver.TCPServer(("", PORT), handler) as httpd:
     print("Serving HTTP at port", PORT)
-    httpd.serve_forever()
+    try:
+        httpd.serve_forever()
+    except KeyboardInterrupt:
+        httpd.shutdown()
