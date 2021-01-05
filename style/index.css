@@ -31,7 +31,8 @@ p {
 
 .site-nav-link-footer {
     color: whitesmoke;
-    font: 1em Futura bold;
+    font: 1em Futura;
+    font-weight: bold;
     
 }
 
@@ -96,7 +97,8 @@ h1 {
     text-align: center;
 }
 h2 {
-    font: 2.5em Futura bold;
+    font: 2.5em Futura;
+    font-weight: bold;
     text-align: center;
 }
 
