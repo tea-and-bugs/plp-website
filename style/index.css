@@ -32,13 +32,14 @@ p {
 .site-nav-link-footer {
     color: whitesmoke;
     font: 1em Futura;
+    font-family: "Futura", "Arial", "Helvetica";
     font-weight: bold;
     
 }
 
 .header-navlink {
     float: right;
-    font-family: "Futura";
+    font-family: "Futura", "Arial", "Helvetica";
     font-weight: bold;
     margin: 1em;
 }
@@ -84,6 +85,7 @@ p {
 
 #contact-sect-div {
     font: 1.25em Futura bold;
+    font-family: "Futura", "Arial", "Helvetica";
     color: #050;
 }
 
@@ -93,11 +95,13 @@ p {
 
 h1 {
     font: 3.5em Futura;
+    font-family: "Futura", "Arial", "Helvetica";
     font-weight: bold;
     text-align: center;
 }
 h2 {
     font: 2.5em Futura;
+    font-family: "Futura", "Arial", "Helvetica";
     font-weight: bold;
     text-align: center;
 }
