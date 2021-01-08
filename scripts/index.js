@@ -1,3 +1,4 @@
+
 function isMobile() {
     var mobile = false;
     if (/Android|iPhone|iPad/.test(navigator.userAgent)) {
@@ -8,10 +9,10 @@ function isMobile() {
 
 function mobileRedirect() {
     if (isMobile()) {
-        if (window.location.pathname === "/") { 
-            window.location.replace("../mobile/"); 
-        } else {
-            window.location.replace("../mobile/") + window.location.pathname;
+        var view = confirm("This website is not meant to be viewed on mobile. \nContinue?")
+        if (!view) {
+            window.location.replace("mobile.html")
         }
     }
 }
+
