@@ -56,6 +56,19 @@ p {
     font-weight: bold;
     margin: 1em;
 }
+
+.sm-link {
+    float: right;
+    list-style-type: none;
+}
+
+.sm-image {
+    float: right;
+    transform: translate(0, 0, 0, 1%);
+    height: 3em;
+    width: 3em;
+}
+
 #header-logo {
     width: 2.5em;
     height: 2.5em;
