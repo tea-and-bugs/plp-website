@@ -58,13 +58,25 @@ p {
 }
 
 .sm-link {
-    float: right;
     list-style-type: none;
 }
 
+#link-tiktok {
+    transform: translate(-50%);
+}
+
+#link-insta {
+    transform: translate(-175%);
+}
+
+#link-email {
+    transform: translate(100%);
+}
+
 .sm-image {
-    float: right;
-    transform: translate(0, 0, 0, 1%);
+    position: fixed;
+    bottom: 1em;
+    left: 50%;
     height: 3em;
     width: 3em;
 }
