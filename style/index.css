@@ -6,10 +6,10 @@ p {
 
 #main-video {
     position: fixed;
-    width: 65vw;
+    height: 67.5vh;
+    width: auto;
     left: 50%;
-    top: 5%;
-    height: auto;
+    top: 7.5%;
     transform: translate(-50%);
 }
 
