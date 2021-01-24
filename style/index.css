@@ -20,7 +20,7 @@ p {
 #header {
     background-color: #bbffbb;
     width: 100vw;
-    height: 5%;
+    height: 7.5%;
     position: fixed;
     margin-left: 0;
     top: 0;
@@ -90,30 +90,13 @@ p {
     
 }
 
-#about-heading {
-    clear: both;
-    position: fixed;
-    background-color: #88ff88;
-    width: 100vw;
-    height: 10%;
-        top: 5%;
-
-    }
-
-#about-body {
-    background-color: #bbffbb;
-    position: fixed;
-    width: 100vw;
-    height: 20%;
-    top: 15%;
-}
-
-#contact-header {
+.page-header {
     background-color: #88ff88;
     padding: 1em;
+
 }
 
-#contact-body {
+.page-body {
     background-color: #bbffbb;
     position: fixed;
     width: 100vw;
