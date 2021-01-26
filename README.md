@@ -1,3 +1,2 @@
 # plp-website
-Website for the Unity PLP project<br>
-
+[Website](http://72.88.137.168) for the Unity PLP project<br>
