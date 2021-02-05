@@ -66,11 +66,15 @@ p {
 }
 
 #link-insta {
-    transform: translate(-175%);
+    transform: translate(-200%);
 }
 
 #link-email {
     transform: translate(100%);
+}
+
+#link-twitter {
+    transform: translate(250%);
 }
 
 .sm-image {
