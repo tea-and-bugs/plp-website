@@ -90,8 +90,9 @@ p {
     height: 3em;
     position: fixed;
     float: left;
-    top: 50%;
-    transform: translate(-50%);
+    top: 3.75%;
+    left: 2.5%;
+    transform: translate(-50%, -50%);
     padding: 0.1em;
 
 }
